@@ -6,8 +6,10 @@ Most react native app examples found in the wild are trivial to build and only s
 - Communicating with servers
 - Authentication
 - Access Tokens and Refresh Tokens (OAuth 2)
-- Global State Management
+- Global state management
 - Persistence
+- Giving feedback
+- Optimistic updates
 - Styling
 - Theming
 - Deep Linking / Universal Links
