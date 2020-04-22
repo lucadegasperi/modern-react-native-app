@@ -8,6 +8,7 @@ Most react native app examples found in the wild are trivial to build and only s
 - Access Tokens and Refresh Tokens (OAuth 2)
 - Global state management
 - Persistence
+- Storage
 - Giving feedback
 - Optimistic updates
 - Styling
@@ -16,3 +17,4 @@ Most react native app examples found in the wild are trivial to build and only s
 - Notifications
 - Background Updates
 - Permissions
+- Real time updates
