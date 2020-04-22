@@ -13,3 +13,4 @@ Most react native app examples found in the wild are trivial to build and only s
 - Deep Linking / Universal Links
 - Notifications
 - Background Updates
+- Permissions
