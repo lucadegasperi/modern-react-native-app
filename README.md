@@ -23,3 +23,5 @@ Most react native app examples found in the wild are trivial to build and only s
 - Onboarding
 
 I will try to come up with solutions that are easy to understand rather than clever tricks not many really understand.
+All the best,
+Luca
