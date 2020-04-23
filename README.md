@@ -20,3 +20,4 @@ Most react native app examples found in the wild are trivial to build and only s
 - Real time updates
 - Accessibility
 - i18n
+- Onboarding
